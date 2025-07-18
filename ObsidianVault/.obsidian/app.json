@@ -1,0 +1,8 @@
+{
+  "promptDelete": false,
+  "focusNewTab": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local"
+}
