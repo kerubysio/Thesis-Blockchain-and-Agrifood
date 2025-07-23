@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linee guida.md",
+                "file": "Tesi/Linee guida.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linee guida.md",
+                "file": "Tesi/Blockchain and Agrifood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linee guida"
+              "title": "Blockchain and Agrifood"
             }
           }
         ],
@@ -183,11 +183,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc4ab01d123b9659",
+  "active": "f657e33faf48968d",
   "lastOpenFiles": [
+    "Tesi",
+    "Tesi/Blockchain and Agrifood.md",
+    "Untitled.md",
+    "Tesi",
+    "Tesi/Linee guida.md",
     "2025-06-28.md",
-    "Linee guida.md",
-    "Blockchain and Agrifood.md",
     "Indicazioni del professore.md",
     "Teoria dei Sistemi/Diagonalizzazione per similitudine.md",
     "Teoria dei Sistemi/Matrice simile.md",
