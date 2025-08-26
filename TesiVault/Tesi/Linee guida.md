@@ -10,8 +10,7 @@ Progetti falliti e comune denominatore tra di essi se lo trovi
 Includendo blog e materiale grigio
 Ossia materiale non scientifico ma prodotto dagli autori o giornalisti
 
-Per quanto riguarda la struttura della tesi può procedere al contrario: ricercando informazioni sull'adozione delle tecnologie blockchain
-nel settore agrifood, ogni volta che trova nomi e concetti tecnici che necessitano di spiegazione, li aggiunge ad un capitolo di "concetti principali". alla fine di questo lavoro di ricerca aggiungerà (nell'introduzione)
+Per quanto riguarda la struttura della tesi può procedere al contrario: ricercando informazioni sull'adozione delle tecnologie blockchain nel settore agrifood, ogni volta che trova nomi e concetti tecnici che necessitano di spiegazione, li aggiunge ad un capitolo di "concetti principali". alla fine di questo lavoro di ricerca aggiungerà (nell'introduzione)
 anche delle definizioni comuni per la blockchain, l’algoritmo di consenso, la politica di gestione e conclusioni
 
 # Cose da tenere a mente
@@ -51,11 +50,12 @@ In breve, procedi così: esplora un progetto, annota ogni parola o tecnica che n
 
 1. **Introduzione:** nell'introduzione si limiti a riassumere brevemente il contenuto della tesi, e come ha effettuato la ricerca (motori, parole chiave/prompt , criteri di selezione e valutazione delle fonti)
     
-2. **Capitolo 1 – Concetti principali e stato dell'arte:** In questo capitolo spieghi nomi e concetti tecnici, partendo dalle definizioni di Agrifood e di Blockchain. Spiega anche come viene implementata oggi, in quali ambiti viene utilizzata e da chi
+2. **Capitolo 1 – Concetti principali e stato dell'arte:** In questo capitolo inizia a spiegare nomi e concetti tecnici, partendo dalle definizioni di Agrifood e di Blockchain.
+   Dopodiché prosegui spiegando come viene implementata oggi, in quali ambiti viene utilizzata e da chi.
+   Infine, aggiungi una sezione dedicata a tecnologie e linguaggi di programmazione in cui descrivi sia i linguaggi maggiormente utilizzati che le varie tipologie di consenso
     
 3. **Capitolo 2 – Progetti:** analizzo un paio di aziende che implementano con successo tale tecnologia (es.: Walmart, nota catena di supermercati americana) e cerco un fattore comune tra di essi. Esempi di fallimenti, cercando un fattore comune tra di essi
     
-    
-4. Capitolo 4 – Tecnologie e linguaggi di programmazione impiegati: spiego i linguaggi di programmazione utilizzati e le varie tipologie di consenso
-    
-5. Conclusioni  e prospettive future
+4. **Capitolo 3 - Conclusioni  e prospettive future**
+   
+5. **Bibliografia e materiale grigio utilizzato** 
