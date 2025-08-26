@@ -13,6 +13,17 @@ Ossia materiale non scientifico ma prodotto dagli autori o giornalisti
 Per quanto riguarda la struttura della tesi può procedere al contrario: ricercando informazioni sull'adozione delle tecnologie blockchain nel settore agrifood, ogni volta che trova nomi e concetti tecnici che necessitano di spiegazione, li aggiunge ad un capitolo di "concetti principali". alla fine di questo lavoro di ricerca aggiungerà (nell'introduzione)
 anche delle definizioni comuni per la blockchain, l’algoritmo di consenso, la politica di gestione e conclusioni
 
+# Materiale da studiare
+
+come riferimenti (soprattutto per i termini e per eventuali approfondimenti) può usare
+[Intro to Ethereum](https://ethereum.org/en/developers/docs/intro-to-ethereum "https://ethereum.org/en/developers/docs/intro-to-ethereum")
+
+per gli aspetti architetturali:
+[Aspetti architetturali](https://web.archive.org/web/20240901090042/https://blog.ipfs.tech/dapps-ipfs/#primer-on-web-app-architectures-spas-mpa-pwa-and-dapps "https://web.archive.org/web/20240901090042/https://blog.ipfs.tech/dapps-ipfs/#primer-on-web-app-architectures-spas-mpa-pwa-and-dapps")
+
+Un buon confronto tra le diverse blockchain, con definizioni, caratteristiche principali, ecc. è questo:
+[Confronto tra blockchain](https://doi.org/10.1016/j.cosrev.2023.100575 "https://doi.org/10.1016/j.cosrev.2023.100575") (non è necessario scendere nel dettaglio della descrizione tecnica, ma è buono capire quali varianti ci sono, cosa e significa quella variante)
+
 # Cose da tenere a mente
 
 Archive.org (https://web.archive.org)
