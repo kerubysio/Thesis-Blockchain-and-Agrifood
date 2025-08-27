@@ -16,5 +16,3 @@ Non si limita quindi all'agricoltura o alla cucina, ma include tutto l’ecosist
 Sempre più spesso, quando si parla di **agrifood**, si fa riferimento anche agli **aspetti tecnologici, ambientali e sociali** legati alla filiera: ad esempio l’uso di droni in agricoltura, la sostenibilità della produzione, o la tracciabilità digitale degli alimenti.
 
 Quindi è un termine _ombrello_, molto usato in contesti economici, politici e scientifici per discutere l’innovazione e le sfide globali legate al cibo.
-
-Prestare attenzione alle [[Linee guida]].
