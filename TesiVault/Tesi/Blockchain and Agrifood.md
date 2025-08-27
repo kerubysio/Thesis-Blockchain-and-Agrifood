@@ -17,4 +17,4 @@ Sempre più spesso, quando si parla di **agrifood**, si fa riferimento anche agl
 
 Quindi è un termine _ombrello_, molto usato in contesti economici, politici e scientifici per discutere l’innovazione e le sfide globali legate al cibo.
 
-Prestare attenzione ai [[Linee guida]].
+Prestare attenzione alle [[Linee guida]].

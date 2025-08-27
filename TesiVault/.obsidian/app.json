@@ -4,5 +4,7 @@
   "readableLineLength": true,
   "strictLineBreaks": false,
   "alwaysUpdateLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "showLineNumber": false,
+  "rightToLeft": false
 }

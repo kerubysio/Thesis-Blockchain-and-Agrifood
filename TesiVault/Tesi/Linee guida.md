@@ -26,6 +26,7 @@ Un buon confronto tra le diverse blockchain, con definizioni, caratteristiche pr
 
 # Cose da tenere a mente
 
+Presenti anche in [[RICORDA]]
 Archive.org (https://web.archive.org)
 Google Scholar
 Scopus
