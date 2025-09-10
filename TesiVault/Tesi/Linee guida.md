@@ -1,4 +1,4 @@
-# Argomento della tesi
+	# Argomento della tesi
 
 Agrifood e tecnologia blockchain
 Verifica stato attuale di implementazione e uso per certificare i processi di produzione agricola
@@ -58,7 +58,7 @@ In breve, procedi così: esplora un progetto, annota ogni parola o tecnica che n
 ## Struttura della tesi - discussa col professore
 
 1. **Introduzione:** nell'introduzione si limiti a riassumere brevemente il contenuto della tesi, e come ha effettuato la ricerca (motori, parole chiave/prompt , criteri di selezione e valutazione delle fonti)
-    
+	
 2. **Capitolo 1 – Concetti principali e stato dell'arte:** In questo capitolo inizia a spiegare nomi e concetti tecnici, partendo dalle definizioni di Agrifood e di Blockchain.
    Dopodiché prosegui spiegando come viene implementata oggi, in quali ambiti viene utilizzata e da chi.
    Infine, aggiungi una sezione dedicata a tecnologie e linguaggi di programmazione in cui descrivi sia i linguaggi maggiormente utilizzati che le varie tipologie di consenso

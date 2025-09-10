@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesi/Blockchain and Agrifood.md",
+                "file": "Tesi/Linee guida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blockchain and Agrifood"
+              "title": "Linee guida"
             }
           },
           {
@@ -181,15 +181,16 @@
   },
   "active": "2a11c059f56bfd25",
   "lastOpenFiles": [
-    "Tesi/Blockchain and Agrifood.md",
-    "Tesi/Consensus mechanism.md",
     "Tesi/Concetti.md",
+    "Tesi/Linee guida.md",
+    "Tesi/Blockchain and Agrifood.md",
+    "Tesi/RICORDA.md",
+    "Tesi/Consensus mechanism.md",
     "Tesi/Ethereum.md",
+    "Pdf.md",
     "concetti.md",
     "Untitled.base",
-    "Tesi/RICORDA.md",
     "Untitled 1.base",
-    "Tesi/Linee guida.md",
     "Pasted image 20250903160728.png",
     "Untitled 3.base",
     "Untitled 2.base",

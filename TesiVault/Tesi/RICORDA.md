@@ -1,7 +1,7 @@
 # Cose da tenere a mente
 
 Conserva tutto il materiale che utilizzi (pdf, siti web, articoli, ecc).
-
+* Hai scritto delle cose su notion:  [Notion](https://kerubysio.notion.site/research-21c89259870b8154926ac3da4f1f7fd9?source=copy_link)
 - Archive.org (https://web.archive.org)
 - Google Scholar
 - Scopus
