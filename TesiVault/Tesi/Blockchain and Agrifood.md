@@ -16,3 +16,5 @@ Non si limita quindi all'agricoltura o alla cucina, ma include tutto l’ecosist
 Sempre più spesso, quando si parla di **agrifood**, si fa riferimento anche agli **aspetti tecnologici, ambientali e sociali** legati alla filiera: ad esempio l’uso di droni in agricoltura, la sostenibilità della produzione, o la tracciabilità digitale degli alimenti.
 
 Quindi è un termine _ombrello_, molto usato in contesti economici, politici e scientifici per discutere l’innovazione e le sfide globali legate al cibo.
+
+Negli ultimi anni sta diventando sempre più popolare l'idea di unire il mondo dell'Agrifood con quello delle criptovalute (come Bitcoin ed [[Ethereum]]), in quanto la tecnologia alla base di queste ultime, la cosiddetta blockchain, costituisce un registro sempre online, accessibile a tutti e difficilmente corrompibile che può essere di grande aiuto per tracciare il percorso dei prodotti dalla terra alla tavola.

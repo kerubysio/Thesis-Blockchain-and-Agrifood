@@ -7,7 +7,6 @@ Linguaggi utilizzati
 Progetto più di successo
 Progetti falliti e comune denominatore tra di essi se lo trovi
 Includendo blog e materiale grigio, Ossia materiale non scientifico ma prodotto dagli autori o giornalisti
-
 # Come lavorare alla tesi
 
 Per quanto riguarda la struttura della tesi può procedere al contrario: **ricercando informazioni sull'adozione delle tecnologie blockchain nel settore agrifood**, ogni volta che trova nomi e concetti tecnici che necessitano di spiegazione, li aggiunge ad un capitolo di "concetti principali". alla fine di questo lavoro di ricerca aggiungerà (nell'introduzione) anche delle definizioni comuni per la blockchain, l’algoritmo di consenso, la politica di gestione e conclusioni.
