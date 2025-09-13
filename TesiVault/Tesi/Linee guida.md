@@ -1,4 +1,4 @@
-	# Argomento della tesi
+# Argomento della tesi
 
 Agrifood e tecnologia blockchain
 Verifica stato attuale di implementazione e uso per certificare i processi di produzione agricola
