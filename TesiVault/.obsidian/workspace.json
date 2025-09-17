@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesi/Linee guida.md",
+                "file": "Tesi/Ethereum.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linee guida"
+              "title": "Ethereum"
             }
           },
           {
@@ -84,11 +84,13 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "549245ae0375f744",
@@ -181,11 +183,11 @@
   },
   "active": "2a11c059f56bfd25",
   "lastOpenFiles": [
+    "Tesi/Concetti.md",
+    "Tesi/Ethereum.md",
+    "Tesi/Linee guida.md",
     "Link utilizzati.md",
     "Tesi/RICORDA.md",
-    "Tesi/Linee guida.md",
-    "Tesi/Ethereum.md",
-    "Tesi/Concetti.md",
     "Tesi/Blockchain and Agrifood.md",
     "Tesi/Consensus mechanism.md",
     "Pdf.md",
