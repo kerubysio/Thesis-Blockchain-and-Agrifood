@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "934b616a4ab819c1",
+        "id": "5d148f8fd2283e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "0e1db71542bc759d",
+            "id": "88cc10318979d2bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tesi/Linee guida.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Linee guida"
+              "title": "New tab"
             }
           }
         ]
@@ -170,8 +166,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e1db71542bc759d",
+  "active": "88cc10318979d2bb",
   "lastOpenFiles": [
+    "Tesi/Linee guida.md",
+    "piano_alimentare 1.pdf",
+    "Linee guida.md",
+    "piano_alimentare.pdf",
     "Untitled.base",
     "Tesi/Ethereum.md",
     "Tesi/Consensus mechanism.md",
@@ -179,7 +179,6 @@
     "Untitled 2.base",
     "Untitled 1.base",
     "pow.md",
-    "Tesi/Linee guida.md",
     "Tesi/Concetti.md",
     "Tesi/Link utilizzati.md",
     "Tesi/RICORDA.md",
@@ -201,7 +200,6 @@
     "simile.md",
     "K.md",
     "2025-04-26.md",
-    "Teoria dei Sistemi",
     "Welcome.md",
     "Bode's plot.md",
     "create a link.md"

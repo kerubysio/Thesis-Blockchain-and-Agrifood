@@ -67,4 +67,4 @@ In breve, procedi così: esplora un progetto, annota ogni parola o tecnica che n
     
 4. **Capitolo 3 - Conclusioni  e prospettive future**
    
-5. **Bibliografia e materiale grigio utilizzato** 
+5. **Bibliografia e materiale grigio utilizzato**
