@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tesi/Linee guida.md",
+                "file": "Tesi/Tesi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linee guida"
+              "title": "Tesi"
             }
           }
         ]
@@ -171,12 +171,12 @@
   },
   "active": "e7773fbca313e15e",
   "lastOpenFiles": [
-    "Pinzy.md",
     "Tesi/Linee guida.md",
+    "Tesi/Blockchain and Agrifood.md",
+    "Pinzy.md",
     "Tesi/Ethereum.md",
     "Tesi/Consensus mechanism.md",
     "Tesi/Concetti.md",
-    "Tesi/Blockchain and Agrifood.md",
     "TesiVault/piano_alimentare 1.pdf",
     "TesiVault/piano_alimentare.pdf"
   ]
